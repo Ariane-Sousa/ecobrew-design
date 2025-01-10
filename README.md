@@ -16,5 +16,5 @@ Confira uma prévia dos elementos visuais:
 ---
 
 ## **Visual Design / Protótipo**  
-Acesse o protótipo navegável no Figma: [https://figma.fun/YEH1P4](https://figma.fun/YEH1P4)  
+Acesse o protótipo navegável no Figma: [EcoBrew - Figma](https://www.figma.com/proto/ITUjlrJCqd1YKndJhc2cO2/EcoBrew?page-id=5%3A573&node-id=5-574&p=f&viewport=-292%2C2343%2C0.28&t=yaMryNJyqTDtUyma-1&scaling=scale-down&content-scaling=fixed&starting-point-node-id=5%3A574)
 ---
